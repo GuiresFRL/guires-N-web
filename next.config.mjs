@@ -14,6 +14,10 @@ const nextConfig = {
         async redirects() {
           return redirects;
         },
+        // Also send noindex/nofollow as a header (covers images, PDFs and other non-HTML files)
+        async headers() {
+          return [{ source: "/:path*", headers: [{ key: "X-Robots-Tag", value: "noindex, nofollow" }] }];
+        },
       }),
   env: { NEXT_PUBLIC_BASE_PATH: basePath },
 };

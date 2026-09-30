@@ -4,10 +4,8 @@ export const metadata = {
   metadataBase: new URL(SITE_URL),
   applicationName: SITE_NAME,
   authors: [{ name: SITE_NAME }],
-  // The GitHub Pages copy (BASE_PATH set) is a preview: keep it out of search results.
-  robots: process.env.NEXT_PUBLIC_BASE_PATH
-    ? { index: false, follow: false, nocache: true, googleBot: { index: false, follow: false } }
-    : { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 } },
+  // Whole site is kept out of search results (noindex, nofollow).
+  robots: { index: false, follow: false, nocache: true, googleBot: { index: false, follow: false } },
   icons: { icon: `${process.env.NEXT_PUBLIC_BASE_PATH || ""}/logo.svg` },
   other: {
     "geo.region": "IN-TN",
