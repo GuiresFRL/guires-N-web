@@ -1,0 +1,232 @@
+[
+ {
+  "source": "/newsroom",
+  "destination": "/news",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/",
+  "destination": "/news",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/category/insights",
+  "destination": "/insights",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/category/corporate-activity",
+  "destination": "/news/corporate",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/category/latest-event",
+  "destination": "/news/life-at-guires",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/partnerships/japanese-delegation-visits-guires-research-labs-to-explore-collaboration",
+  "destination": "/news/partnerships/japanese-delegation-visits-guires-research-labs-to-explore-collaboration",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/latest-event/vinayagar-chaturthi-2026-celebration-at-guires",
+  "destination": "/news/life-at-guires/vinayagar-chaturthi-2026-celebration-at-guires",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/latest-event/brewing-something-newsixteen-and-counting",
+  "destination": "/news/corporate/sixteen-and-counting-guires-launches-tulitics-on-16th-anniversary",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/latest-event/guires-day-2026-team-day-out-at-vgp-theme-park",
+  "destination": "/news/life-at-guires/guires-day-2026-team-day-out-at-vgp-theme-park",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/partnerships/food-research-lab-internship-programme-2026-hands-on-industry-training-for-students",
+  "destination": "/news/partnerships/food-research-lab-internship-programme-2026-hands-on-industry-training-for-students",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/latest-event/united-for-women-celebrating-the-essence-of-womanhood",
+  "destination": "/news/life-at-guires/united-for-women-celebrating-the-essence-of-womanhood",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/latest-event/pongal-celebrations-2026",
+  "destination": "/news/life-at-guires/pongal-celebrations-2026-a-harvest-of-togetherness",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/latest-event/goodbye-2025-welcome-2026",
+  "destination": "/news/life-at-guires/goodbye-2025-welcome-2026",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/latest-event/honouring-roots-shaping-tomorrow",
+  "destination": "/news/life-at-guires/guires-15th-anniversary-honouring-our-roots-shaping-tomorrow",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/latest-event/sporting-encounters-building-team-spirit-the-guires-way",
+  "destination": "/news/life-at-guires/sporting-encounters-building-team-spirit-the-guires-way",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/latest-event/gastronomically-guires-culture-collaboration-and-community",
+  "destination": "/news/life-at-guires/gastronomically-guires-potluck-2025-culture-collaboration-and-community",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/in-the-media/industry-outlook-features-guires-food-research-lab-health-wellness-contract-manufacturers-2025",
+  "destination": "/news/in-the-media/industry-outlook-features-guires-food-research-lab-health-wellness-contract-manufacturers-2025",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/latest-event/guires-vibrant-celebration-embracing-tamil-culture-and-unity",
+  "destination": "/news/life-at-guires/pongal-2024-guires-vibrant-celebration-embracing-tamil-culture-and-unity",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/corporate-activity/partnering-with-tamilnadu-agricultural-marketing-and-agri-business",
+  "destination": "/news/partnerships/food-research-lab-partners-with-tamil-nadu-agricultural-marketing-and-agri-business",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/latest-event/guires-13th-anniversary-lets-build-an-alter",
+  "destination": "/news/life-at-guires/guires-13th-anniversary-lets-build-an-altar",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/latest-event/agri-business-festival",
+  "destination": "/news/events/guires-director-participated-as-speaker-at-tamil-nadu-agri-business-festival-2023",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/latest-event/christmas-2022-new-beginnings-magical-endings",
+  "destination": "/news/life-at-guires/christmas-2022-new-beginnings-magical-endings",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/latest-event/guires-12th-anniversary-over-12-golden-years-of-exploring-possibilities",
+  "destination": "/news/life-at-guires/guires-12th-anniversary-over-12-golden-years-of-exploring-possibilities",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/latest-event/christmas-gala-a-frosty-fest-to-remember",
+  "destination": "/news/life-at-guires/christmas-gala-a-frosty-fest-to-remember",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/latest-event/guires-11th-annual-fest-more-than-a-decade-of-excellence-service",
+  "destination": "/news/life-at-guires/guires-11th-annual-fest-more-than-a-decade-of-excellence-service",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/latest-event/emerging-technologies-and-development-in-guires",
+  "destination": "/news/events/emerging-technologies-and-development-in-guires",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/latest-event/guires-part-of-digital-conversation-on-tuesday-manchester-and-india-the-digital-opportunity-2",
+  "destination": "/news/events/guires-part-of-digital-conversation-manchester-and-india-the-digital-opportunity",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/latest-event/guires-part-of-digital-conversation-on-tuesday-manchester-and-india-the-digital-opportunity",
+  "destination": "/news/events/guires-part-of-digital-conversation-manchester-and-india-the-digital-opportunity",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/corporate-activity/guires-part-of-digital-conversation-on-tuesday-manchester-and-india-the-digital-opportunity-2",
+  "destination": "/news/events/guires-part-of-digital-conversation-manchester-and-india-the-digital-opportunity",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/latest-event/midas-manchesters-inward-investment-agency-guires-ltd",
+  "destination": "/news/events/midas-manchesters-inward-investment-agency-guires-ltd",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/corporate-activity/midas-manchesters-inward-investment-agency-guires-ltd",
+  "destination": "/news/events/midas-manchesters-inward-investment-agency-guires-ltd",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/insights/need-for-availability-access-to-clinical-evidence-for-medical-devices-for-europe",
+  "destination": "/news/thought-leadership/need-for-availability-access-to-clinical-evidence-for-medical-devices-for-europe",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/latest-event/festival-of-lights-with-deloitte",
+  "destination": "/news/events/festival-of-lights-with-deloitte",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/corporate-activity/festival-of-lights-with-deloitte",
+  "destination": "/news/events/festival-of-lights-with-deloitte",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/latest-event/digitally-driven-tech-uk-creating-digital-future",
+  "destination": "/news/events/digitally-driven-tech-uk-creating-digital-future",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/corporate-activity/digitally-driven-tech-uk-creating-digital-future",
+  "destination": "/news/events/digitally-driven-tech-uk-creating-digital-future",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/latest-event/the-midas-touch",
+  "destination": "/news/partnerships/the-midas-touch",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/corporate-activity/the-midas-touch",
+  "destination": "/news/partnerships/the-midas-touch",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/corporate-activity/pubrica-clinical-and-medical-scientific-writing-and-publication-support-a-unit-of-guires-uk",
+  "destination": "/news/corporate/pubrica-clinical-and-medical-scientific-writing-and-publication-support-a-unit-of-guires-uk",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/corporate-activity/pepgra-scientific-and-regulatory-cro-firm-the-brand-of-guires-uk",
+  "destination": "/news/corporate/pepgra-scientific-and-regulatory-cro-firm-the-brand-of-guires-uk",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/corporate-activity/gulfood-conference",
+  "destination": "/news/events/gulfood-conference",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/corporate-activity/going-international-united-kingdom",
+  "destination": "/news/corporate/going-international-united-kingdom",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/partnerships/guires-meets-manchester-science-partnerships-msp-to-explore-collaboration",
+  "destination": "/news/partnerships/guires-meets-manchester-science-partnerships-msp-to-explore-collaboration",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/sustainability-initiatives/green-guires-sapling-planting-sustainability-initiative",
+  "destination": "/news/sustainability-initiatives/green-guires-sapling-planting-sustainability-initiative",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/sustainability-initiatives/nutrition-and-hydration-week-2014-water-and-hydration-awareness-for-older-adults",
+  "destination": "/news/sustainability-initiatives/nutrition-and-hydration-week-2014-water-and-hydration-awareness-for-older-adults",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/corporate-activity/centre-for-food-mood-and-exercise-guires-healthy-supermarket-chennai",
+  "destination": "/news/corporate/centre-for-food-mood-and-exercise-guires-healthy-supermarket-chennai",
+  "permanent": true
+ }
+]
