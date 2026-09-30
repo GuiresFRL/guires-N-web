@@ -4,12 +4,15 @@ const BASE = process.env.NEXT_PUBLIC_BASE_PATH || "";
 // Markup, CSS and scripts use root-absolute links/assets; prefix them when hosted under a sub-path.
 const ASSET = "(?:brands|facilities|news-images)/|[\\w-]+\\.(?:jpg|jpeg|png|svg|webp)\\b";
 const QUOTED_ASSET = new RegExp("([\"'`])/(?=" + ASSET + ")", "g");
+const ROUTE = "(?:news|careers|contact|publications|insights|privacy-policy|terms-and-conditions|cookie-policy|disclaimer)(?=[/\\\\\"'`?#$])";
+const QUOTED_ROUTE = new RegExp("([\"'`])/(?=" + ROUTE + ")", "g");
 const withBase = (s) =>
   BASE
     ? s
         .replace(/\b(href|src)=(\\?["'])\/(?!\/)/g, `$1=$2${BASE}/`)
         .replace(/url\(\/(?!\/)/g, `url(${BASE}/`)
         .replace(QUOTED_ASSET, `$1${BASE}/`)
+        .replace(QUOTED_ROUTE, `$1${BASE}/`)
     : s;
 
 /**
