@@ -5,7 +5,7 @@ export const metadata = {
   applicationName: SITE_NAME,
   authors: [{ name: SITE_NAME }],
   robots: { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 } },
-  icons: { icon: "/logo.svg" },
+  icons: { icon: `${process.env.NEXT_PUBLIC_BASE_PATH || ""}/logo.svg` },
   other: {
     "geo.region": "IN-TN",
     "geo.placename": "Chennai",
