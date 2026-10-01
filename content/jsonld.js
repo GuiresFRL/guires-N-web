@@ -302,6 +302,14 @@ export const jsonld = {
       },
       {
        "@type": "Question",
+       "name": "What are the Guires vision and mission?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our vision is to be a globally trusted bioscience research and innovation partner, turning science into safe, effective and sustainable products that improve the health of people, animals and the planet. Our mission is to give clients worldwide one integrated partner for research, product development, pilot manufacturing, testing and scientific communication, delivered with scientific rigour, integrity and a passion for real-world impact."
+       }
+      },
+      {
+       "@type": "Question",
        "name": "Is Guires certified?",
        "acceptedAnswer": {
         "@type": "Answer",
@@ -442,6 +450,20 @@ export const jsonld = {
         "position": 1,
         "item": {
          "@type": "NewsArticle",
+         "headline": "Guires Research & Innovation Centre to Move to TICEL Bio Park, Taramani, in January 2027",
+         "description": "In January 2027 Guires opens its new Research & Innovation Centre at TICEL Bio Park, Chennai, uniting its corporate office with world-class R&D, pilot manufacturing and analytical labs.",
+         "datePublished": "2026-10-01",
+         "url": "https://guires.com/news/corporate/guires-research-innovation-centre-to-move-to-ticel-bio-park-taramani-2027",
+         "publisher": {
+          "@id": "https://guires.com/#org"
+         }
+        }
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "item": {
+         "@type": "NewsArticle",
          "headline": "Team from Japan Visits Guires Research Labs to Explore Collaboration in Food Innovation and Freshness Technology",
          "description": "A visiting team from Japan toured Guires Research Labs in Chennai and met our R&D, production and quality leaders to explore collaboration on freshness-preservation technology, product development and testing.",
          "datePublished": "2026-09-20",
@@ -453,7 +475,7 @@ export const jsonld = {
        },
        {
         "@type": "ListItem",
-        "position": 2,
+        "position": 3,
         "item": {
          "@type": "NewsArticle",
          "headline": "Vinayagar Chaturthi 2026: Guires Celebrates New Beginnings and Wisdom",
@@ -467,7 +489,7 @@ export const jsonld = {
        },
        {
         "@type": "ListItem",
-        "position": 3,
+        "position": 4,
         "item": {
          "@type": "NewsArticle",
          "headline": "Sixteen and Counting: Guires Launches Tulitics on Its 16th Anniversary",
@@ -481,7 +503,7 @@ export const jsonld = {
        },
        {
         "@type": "ListItem",
-        "position": 4,
+        "position": 5,
         "item": {
          "@type": "NewsArticle",
          "headline": "Guires Day 2026: A Day of Thrills and Togetherness at VGP Theme Park",
@@ -495,7 +517,7 @@ export const jsonld = {
        },
        {
         "@type": "ListItem",
-        "position": 5,
+        "position": 6,
         "item": {
          "@type": "NewsArticle",
          "headline": "Food Research Lab Internship Programme 2026: Hands-On Industry Training for Food Technology, Nutrition and Procurement Students",
@@ -509,7 +531,7 @@ export const jsonld = {
        },
        {
         "@type": "ListItem",
-        "position": 6,
+        "position": 7,
         "item": {
          "@type": "NewsArticle",
          "headline": "United for Women: Celebrating the Essence of Womanhood",
@@ -523,7 +545,7 @@ export const jsonld = {
        },
        {
         "@type": "ListItem",
-        "position": 7,
+        "position": 8,
         "item": {
          "@type": "NewsArticle",
          "headline": "A Harvest of Togetherness: Pongal Celebrations at Guires",
@@ -537,7 +559,7 @@ export const jsonld = {
        },
        {
         "@type": "ListItem",
-        "position": 8,
+        "position": 9,
         "item": {
          "@type": "NewsArticle",
          "headline": "Goodbye 2025, Welcome 2026",
@@ -551,7 +573,7 @@ export const jsonld = {
        },
        {
         "@type": "ListItem",
-        "position": 9,
+        "position": 10,
         "item": {
          "@type": "NewsArticle",
          "headline": "Guires 15th Anniversary: Honouring Our Roots, Shaping Tomorrow",
@@ -565,7 +587,7 @@ export const jsonld = {
        },
        {
         "@type": "ListItem",
-        "position": 10,
+        "position": 11,
         "item": {
          "@type": "NewsArticle",
          "headline": "Sporting Encounters: Building Team Spirit, the Guires Way",
@@ -579,7 +601,7 @@ export const jsonld = {
        },
        {
         "@type": "ListItem",
-        "position": 11,
+        "position": 12,
         "item": {
          "@type": "NewsArticle",
          "headline": "Gastronomically Guires: A Culinary Celebration of Culture, Collaboration and Community",
@@ -593,7 +615,7 @@ export const jsonld = {
        },
        {
         "@type": "ListItem",
-        "position": 12,
+        "position": 13,
         "item": {
          "@type": "NewsArticle",
          "headline": "Industry Outlook Features Guires Food Research Lab Among Health & Wellness Contract Manufacturers",
@@ -607,7 +629,7 @@ export const jsonld = {
        },
        {
         "@type": "ListItem",
-        "position": 13,
+        "position": 14,
         "item": {
          "@type": "NewsArticle",
          "headline": "Pongal 2024: Guires' Vibrant Celebration of Tamil Culture and Unity",
@@ -621,7 +643,7 @@ export const jsonld = {
        },
        {
         "@type": "ListItem",
-        "position": 14,
+        "position": 15,
         "item": {
          "@type": "NewsArticle",
          "headline": "Food Research Lab Partners with Tamil Nadu's Department of Agricultural Marketing and Agri Business",
@@ -635,7 +657,7 @@ export const jsonld = {
        },
        {
         "@type": "ListItem",
-        "position": 15,
+        "position": 16,
         "item": {
          "@type": "NewsArticle",
          "headline": "Guires 13th Anniversary: Let's Build an Altar",
@@ -649,7 +671,7 @@ export const jsonld = {
        },
        {
         "@type": "ListItem",
-        "position": 16,
+        "position": 17,
         "item": {
          "@type": "NewsArticle",
          "headline": "Guires Director Speaks on Next-Generation Protein Foods at the Tamil Nadu Agri-Business Festival 2023",
@@ -663,7 +685,7 @@ export const jsonld = {
        },
        {
         "@type": "ListItem",
-        "position": 17,
+        "position": 18,
         "item": {
          "@type": "NewsArticle",
          "headline": "New Beginnings, Magical Endings: Christmas Extravaganza",
@@ -677,7 +699,7 @@ export const jsonld = {
        },
        {
         "@type": "ListItem",
-        "position": 18,
+        "position": 19,
         "item": {
          "@type": "NewsArticle",
          "headline": "Guires 12th Anniversary: Over 12 Golden Years of Exploring Possibilities",
@@ -691,7 +713,7 @@ export const jsonld = {
        },
        {
         "@type": "ListItem",
-        "position": 19,
+        "position": 20,
         "item": {
          "@type": "NewsArticle",
          "headline": "Christmas Gala: A Frosty Fest to Remember",
@@ -705,7 +727,7 @@ export const jsonld = {
        },
        {
         "@type": "ListItem",
-        "position": 20,
+        "position": 21,
         "item": {
          "@type": "NewsArticle",
          "headline": "Guires 11th Annual Fest: More Than a Decade of Excellence and Service",
@@ -719,7 +741,7 @@ export const jsonld = {
        },
        {
         "@type": "ListItem",
-        "position": 21,
+        "position": 22,
         "item": {
          "@type": "NewsArticle",
          "headline": "Guires Joins NASSCOM and UK DIT Panel on Emerging Technologies",
@@ -733,7 +755,7 @@ export const jsonld = {
        },
        {
         "@type": "ListItem",
-        "position": 22,
+        "position": 23,
         "item": {
          "@type": "NewsArticle",
          "headline": "Manchester and India, The Digital Opportunity: Guires Joins the Panel",
@@ -747,7 +769,7 @@ export const jsonld = {
        },
        {
         "@type": "ListItem",
-        "position": 23,
+        "position": 24,
         "item": {
          "@type": "NewsArticle",
          "headline": "Guires Joins MIDAS Panel on 'The Digital Opportunity'",
@@ -761,11 +783,11 @@ export const jsonld = {
        },
        {
         "@type": "ListItem",
-        "position": 24,
+        "position": 25,
         "item": {
          "@type": "NewsArticle",
          "headline": "Need for Availability and Access to Clinical Evidence for Medical Devices in Europe",
-         "description": "Our new white paper examines why transparent, accessible clinical evidence is essential for medical devices in Europe, for regulators, physicians and patients alike.",
+         "description": "Our published commentary, in the Clinical Journal of Diabetes Care and Control, examines why transparent, accessible clinical evidence is essential for medical devices in Europe, for regulators, physicians and patients alike.",
          "datePublished": "2020-03-11",
          "url": "https://guires.com/news/thought-leadership/need-for-availability-access-to-clinical-evidence-for-medical-devices-for-europe",
          "publisher": {
@@ -775,7 +797,7 @@ export const jsonld = {
        },
        {
         "@type": "ListItem",
-        "position": 25,
+        "position": 26,
         "item": {
          "@type": "NewsArticle",
          "headline": "Festival of Lights with Deloitte: Diwali in Manchester",
@@ -789,7 +811,7 @@ export const jsonld = {
        },
        {
         "@type": "ListItem",
-        "position": 26,
+        "position": 27,
         "item": {
          "@type": "NewsArticle",
          "headline": "Digitally Driven: Guires at techUK's Creating Digital Futures",
@@ -803,7 +825,7 @@ export const jsonld = {
        },
        {
         "@type": "ListItem",
-        "position": 27,
+        "position": 28,
         "item": {
          "@type": "NewsArticle",
          "headline": "The MIDAS Touch: Guires Partners with Manchester's Investment Agency",
@@ -817,7 +839,7 @@ export const jsonld = {
        },
        {
         "@type": "ListItem",
-        "position": 28,
+        "position": 29,
         "item": {
          "@type": "NewsArticle",
          "headline": "Pubrica: Clinical and Medical Writing and Publication Support, a Unit of Guires UK",
@@ -831,7 +853,7 @@ export const jsonld = {
        },
        {
         "@type": "ListItem",
-        "position": 29,
+        "position": 30,
         "item": {
          "@type": "NewsArticle",
          "headline": "Pepgra: Scientific and Regulatory CRO, a Brand of Guires UK",
@@ -845,7 +867,7 @@ export const jsonld = {
        },
        {
         "@type": "ListItem",
-        "position": 30,
+        "position": 31,
         "item": {
          "@type": "NewsArticle",
          "headline": "Gulfood 2020: Food Research Lab Meets the Global Food Industry",
@@ -859,7 +881,7 @@ export const jsonld = {
        },
        {
         "@type": "ListItem",
-        "position": 31,
+        "position": 32,
         "item": {
          "@type": "NewsArticle",
          "headline": "Going International: Guires Opens in the United Kingdom",
@@ -873,7 +895,7 @@ export const jsonld = {
        },
        {
         "@type": "ListItem",
-        "position": 32,
+        "position": 33,
         "item": {
          "@type": "NewsArticle",
          "headline": "Guires Meets Manchester Science Partnerships (MSP) to Explore Collaboration with Guires Labs",
@@ -887,7 +909,7 @@ export const jsonld = {
        },
        {
         "@type": "ListItem",
-        "position": 33,
+        "position": 34,
         "item": {
          "@type": "NewsArticle",
          "headline": "Green Guires: Sapling Planting and Our Commitment to Sustainability",
@@ -901,7 +923,7 @@ export const jsonld = {
        },
        {
         "@type": "ListItem",
-        "position": 34,
+        "position": 35,
         "item": {
          "@type": "NewsArticle",
          "headline": "Nutrition & Hydration Week 2014: Raising Awareness of Water and Hydration Among Older Adults",
@@ -915,7 +937,7 @@ export const jsonld = {
        },
        {
         "@type": "ListItem",
-        "position": 35,
+        "position": 36,
         "item": {
          "@type": "NewsArticle",
          "headline": "Centre for Food, Mood & Exercise: Guires Pioneers an Integrated, Evidence-Based Preventive Healthcare Model in Chennai",
