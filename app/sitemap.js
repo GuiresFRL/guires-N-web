@@ -3,7 +3,7 @@ import { newsroom } from "@/content/newsroom";
 import { SITE_URL } from "@/lib/seo";
 
 export default function sitemap() {
-  const now = new Date("2026-09-30");
+  const now = new Date(); // build date (the sitemap is generated at build time)
   return [
     { url: `${SITE_URL}/`, lastModified: now, changeFrequency: "weekly", priority: 1,
       images: ["/og-image.jpg", "/team.jpg", "/ganesan-anbazhagan.jpg", "/radhika-ganesan.jpg", "/manish-ganesan.jpg", "/suresh.jpg", "/sineka-sivalingam.jpg",

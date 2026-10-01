@@ -5,7 +5,7 @@ const AI_BOTS = ["GPTBot", "OAI-SearchBot", "ChatGPT-User", "ClaudeBot", "Claude
 
 export default function robots() {
   return {
-    rules: [{ userAgent: "*", allow: "/" }, ...AI_BOTS.map((userAgent) => ({ userAgent, allow: "/" }))],
+    rules: [{ userAgent: "*", allow: "/", disallow: ["/api/"] }, ...AI_BOTS.map((userAgent) => ({ userAgent, allow: "/", disallow: ["/api/"] }))],
     sitemap: `${SITE_URL}/sitemap.xml`,
   };
 }
