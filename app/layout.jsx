@@ -4,8 +4,10 @@ export const metadata = {
   metadataBase: new URL(SITE_URL),
   applicationName: SITE_NAME,
   authors: [{ name: SITE_NAME }],
-  // Whole site is kept out of search results (noindex, nofollow).
-  robots: { index: false, follow: false, nocache: true, googleBot: { index: false, follow: false } },
+  // Indexed normally; only the GitHub Pages preview copy (BASE_PATH set) is kept out of search results.
+  robots: process.env.NEXT_PUBLIC_BASE_PATH
+    ? { index: false, follow: false, nocache: true, googleBot: { index: false, follow: false } }
+    : { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 } },
   icons: { icon: `${process.env.NEXT_PUBLIC_BASE_PATH || ""}/logo.svg` },
   other: {
     "geo.region": "IN-TN",
