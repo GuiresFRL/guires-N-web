@@ -1,0 +1,812 @@
+[
+ {
+  "source": "/about-us",
+  "destination": "/#about",
+  "permanent": true
+ },
+ {
+  "source": "/about-us/our-team/ceo",
+  "destination": "/#leadership",
+  "permanent": true
+ },
+ {
+  "source": "/about-us/our-team/chief-operating-officer",
+  "destination": "/#leadership",
+  "permanent": true
+ },
+ {
+  "source": "/about-us/our-team/operational-support",
+  "destination": "/#leadership",
+  "permanent": true
+ },
+ {
+  "source": "/about-us/our-team",
+  "destination": "/#leadership",
+  "permanent": true
+ },
+ {
+  "source": "/terms-conditions",
+  "destination": "/terms-and-conditions",
+  "permanent": true
+ },
+ {
+  "source": "/cancellation-refund",
+  "destination": "/terms-and-conditions",
+  "permanent": true
+ },
+ {
+  "source": "/services/research-services/product-development",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/services/research-services",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/services",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/services/research-services/process-modeling-development",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/services/research-services/healthcare-policy-and-impact-evaluation",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/services/research-services/conducting-healthcare-research",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/services/data-science",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/services/data-science/patient-journey-insights-machine-learning",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/services/data-science/customer-segmentation",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/services/data-science/predictive-analytics",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/services/data-science/algorithm-development-for-training-and-optimisation-workflow-automation",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/services/data-science/meaningful-interpretation-reporting-and-visualisation",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/services/data-science/leadership-content-editorial-design",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/services/data-science/health-economics-outcome-research-treatment-diseases-and-conditions",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/services/biostatistics-statistical-programming-services",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/services/biostatistics-statistical-programming-services/clinical-data-management-services",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/services/biostatistics-statistical-programming-services/biostatistics-and-statistical-programming",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/services/author-publisher-services",
+  "destination": "/publications",
+  "permanent": true
+ },
+ {
+  "source": "/services/author-publisher-services/scientific-research-writing-and-editing",
+  "destination": "/publications",
+  "permanent": true
+ },
+ {
+  "source": "/services/author-publisher-services/design-and-experimental-methodology-writing",
+  "destination": "/publications",
+  "permanent": true
+ },
+ {
+  "source": "/services/author-publisher-services/medical-and-epidemiological-statistical-analysis",
+  "destination": "/publications",
+  "permanent": true
+ },
+ {
+  "source": "/services/author-publisher-services/journal-support-and-publication-services",
+  "destination": "/publications",
+  "permanent": true
+ },
+ {
+  "source": "/services/scientific-and-medical-communication",
+  "destination": "/publications",
+  "permanent": true
+ },
+ {
+  "source": "/services/scientific-and-medical-communication/medical-animation-services",
+  "destination": "/publications",
+  "permanent": true
+ },
+ {
+  "source": "/services/scientific-and-medical-communication/video-abstract-services",
+  "destination": "/publications",
+  "permanent": true
+ },
+ {
+  "source": "/services/scientific-and-medical-communication/poster-design-and-creation",
+  "destination": "/publications",
+  "permanent": true
+ },
+ {
+  "source": "/services/scientific-and-medical-communication/thought-leadership-editorial-design",
+  "destination": "/publications",
+  "permanent": true
+ },
+ {
+  "source": "/services/scientific-and-medical-communication/marketing-material",
+  "destination": "/publications",
+  "permanent": true
+ },
+ {
+  "source": "/services/pharmacovigilance-and-medical-device-vigilance-services/regulatory-submission-review",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/services/pharmacovigilance-and-medical-device-vigilance-services",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/services/pharmacovigilance-and-medical-device-vigilance-services/pharmacovigilance-operations-postmarketing-post-authorization",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/services/pharmacovigilance-and-medical-device-vigilance-services/regulatory-and-clinical-writing",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/services/research-services/taxonomy-thesaurus-ontology-development-maintenance",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/services/scientific-and-medical-communication/e-learning-modules",
+  "destination": "/publications",
+  "permanent": true
+ },
+ {
+  "source": "/industries/functional-foods-and-nutraceuticals",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/industries/generics",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/industries/medical-device",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/industries/pharmaceutical",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/industries/biosimilar",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/industries/biotechnology",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/industries/consumer-healthcare",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/industries/cosmetics",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/industries/clinics-and-university-hospitals",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/industries/scientific-associations-ngos-and-health-authorities",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/industries",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/therapeutic-areas",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/therapeutic-areas/medical-device-diagnostic-expertise-2",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/therapeutic-areas/nutraceutical-and-functional-foods-research",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/therapeutic-areas/strategic-drug-development-to-commercialization-support-2/central-nervous-system",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/therapeutic-areas/strategic-drug-development-to-commercialization-support-2/cardiovascular",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/therapeutic-areas/strategic-drug-development-to-commercialization-support-2/oncology",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/therapeutic-areas/strategic-drug-development-to-commercialization-support-2/endocrine-and-metabolic-disorders",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/therapeutic-areas/strategic-drug-development-to-commercialization-support-2/infectious-diseases",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/therapeutic-areas/strategic-drug-development-to-commercialization-support-2",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/career/pharmacovigilance-regulatory",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/biostatistics-statistical-programming/director-of-early-phase-clinical-operations",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/pharmacovigilance-regulatory/director-of-drug-safety",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/quality-assurance-quality-control",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/quality-assurance-quality-control/qa-manager",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/quality-assurance-quality-control/qa-specialist",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/quality-assurance-quality-control/supply-chain-general-manager",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/quality-assurance-quality-control/technical-project-manager",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/quality-assurance-quality-control/senior-hse-advisor",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/quality-assurance-quality-control/laboratory-operations-assistant",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/quality-assurance-quality-control/qc-manager-analytical-development",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/biostatistics-statistical-programming",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/subject-matter-expert-computer-science",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/subject-matter-expert-management-business-studies",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/graphic-designers",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/food-research-lab-assistant-cum-cook",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/brand-executive-full-time-opportunity",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/executive-secretary",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/marketing-content-writer-team-coordinator",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/digital-marketing-executive-seo-only",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/corporate-sales-bde-medical-pharm",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/jd-for-hr-recruiter",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/business-development-executive-food",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/team-leader-operations",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/technical-writer-matlab",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/mission-and-vision",
+  "destination": "/#about",
+  "permanent": true
+ },
+ {
+  "source": "/career/brand-head-food-research-lab",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/iso-coordinator",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/mis-analyst",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/production-service-management",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/cloud-systems-administrator-aws",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/iso-co-ordinator",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/voice-process-us-bpo",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/iso-lead-audit",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/finance-manager-finance-and-accounts",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/sr-business-development",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/project-coordinator",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/finance-and-accounts",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/management-project-associate",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/medical-content-writer",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/business-development-b2b-channel-food-contract-manufacturing",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/production-head-frl",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/sales-officer",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/seo-executive",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/content-writer",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/apply",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/team-lead-web-development",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/career/human-resource-manager",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/strategies-of-outsourcing-oil-gas-industry",
+  "destination": "/insights",
+  "permanent": true
+ },
+ {
+  "source": "/to-read-and-proofread",
+  "destination": "/insights",
+  "permanent": true
+ },
+ {
+  "source": "/textbook-as-a-teaching-tool",
+  "destination": "/insights",
+  "permanent": true
+ },
+ {
+  "source": "/software-manuals-unravelled",
+  "destination": "/insights",
+  "permanent": true
+ },
+ {
+  "source": "/white-papers/research-solutions/strategies-of-outsourcing-oil-gas-industry",
+  "destination": "/insights",
+  "permanent": true
+ },
+ {
+  "source": "/white-papers/research-solutions/to-read-and-proofread",
+  "destination": "/insights",
+  "permanent": true
+ },
+ {
+  "source": "/white-papers/research-solutions/textbook-as-a-teaching-tool",
+  "destination": "/insights",
+  "permanent": true
+ },
+ {
+  "source": "/white-papers/data-science-analytics/software-manuals-unravelled",
+  "destination": "/insights",
+  "permanent": true
+ },
+ {
+  "source": "/white-papers/branding-communication/social-media-integrations-in-banking",
+  "destination": "/insights",
+  "permanent": true
+ },
+ {
+  "source": "/white-papers/branding-communication/role-of-white-papers-in-a-marketing-mix",
+  "destination": "/insights",
+  "permanent": true
+ },
+ {
+  "source": "/white-papers/branding-communication/outsourcing-in-indian-fmcg-industry",
+  "destination": "/insights",
+  "permanent": true
+ },
+ {
+  "source": "/white-papers/regulatory-pharmacovigilance-support/outsourcing-of-white-paper-writing-services-to-increase-revenues-in-the-pharmaceutical-industry",
+  "destination": "/insights",
+  "permanent": true
+ },
+ {
+  "source": "/white-papers/regulatory-pharmacovigilance-support/impact-of-social-media-in-hospitality",
+  "destination": "/insights",
+  "permanent": true
+ },
+ {
+  "source": "/white-paper",
+  "destination": "/insights",
+  "permanent": true
+ },
+ {
+  "source": "/resources/case_study/Delivering-brochures-that-are-concise-yet-informative.pdf",
+  "destination": "/insights",
+  "permanent": true
+ },
+ {
+  "source": "/resources/case_study/Outsourcing-as-an-effective-option-to-create-compelling-case-studies.pdf",
+  "destination": "/insights",
+  "permanent": true
+ },
+ {
+  "source": "/resources/case_study/Producing-a-riveting-white-paper.pdf",
+  "destination": "/insights",
+  "permanent": true
+ },
+ {
+  "source": "/resources/case_study/An-unconventional-approach-to-newsletter-writing.pdf",
+  "destination": "/insights",
+  "permanent": true
+ },
+ {
+  "source": "/white-papers/branding-communication/enhancing-brand-value",
+  "destination": "/insights",
+  "permanent": true
+ },
+ {
+  "source": "/white-papers/biostatistics-statistical-programming/employing-business-statistics",
+  "destination": "/insights",
+  "permanent": true
+ },
+ {
+  "source": "/white-papers/research-solutions/editing-or-technical-editing-whats-the-difference",
+  "destination": "/insights",
+  "permanent": true
+ },
+ {
+  "source": "/white-papers/branding-communication/brochure-content-creation-outsourced",
+  "destination": "/insights",
+  "permanent": true
+ },
+ {
+  "source": "/case-study/biostatistics-statistical-programming-case-study/bio-statistics-redefining-healthcare-delivery",
+  "destination": "/insights",
+  "permanent": true
+ },
+ {
+  "source": "/white-papers/biostatistics-statistical-programming/are-indian-smes-read-for-enterprise",
+  "destination": "/insights",
+  "permanent": true
+ },
+ {
+  "source": "/white-papers/regulatory-pharmacovigilance-support/big-implications-of-big-data-in-healthcare",
+  "destination": "/insights",
+  "permanent": true
+ },
+ {
+  "source": "/white-papers/research-solutions/a-crux-of-oil-and-gas-industry-operations",
+  "destination": "/insights",
+  "permanent": true
+ },
+ {
+  "source": "/white-papers/research-solutions/growth-of-e-publishing-industry",
+  "destination": "/insights",
+  "permanent": true
+ },
+ {
+  "source": "/case-study/regulatory-pharmacovigilance-support-case-study/automatic-brain-tumour-detection-and-segmentation-using-machine-learning",
+  "destination": "/insights",
+  "permanent": true
+ },
+ {
+  "source": "/case-study/biostatistics-statistical-programming-case-study/estimation-of-the-dose-proportionality-and-bioavailability-of-a-drug-in-td-delivery-system",
+  "destination": "/insights",
+  "permanent": true
+ },
+ {
+  "source": "/case-study/regulatory-pharmacovigilance-support-case-study/healthcare",
+  "destination": "/insights",
+  "permanent": true
+ },
+ {
+  "source": "/case-study/regulatory-pharmacovigilance-support-case-study/a-clinical-evaluation-report-cer-that-complies-with-meddev-2-7-1-rev-4-guidelines-a-case-of-x-ray-and-ecg",
+  "destination": "/insights",
+  "permanent": true
+ },
+ {
+  "source": "/case-study/biostatistics-statistical-programming-case-study/application-of-regression-analyses-to-calculate-wholesale-price-index-wpi-a-case-study",
+  "destination": "/insights",
+  "permanent": true
+ },
+ {
+  "source": "/case-study",
+  "destination": "/insights",
+  "permanent": true
+ },
+ {
+  "source": "/sample-work",
+  "destination": "/insights",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/csr-activity",
+  "destination": "/news/sustainability-initiatives",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/newsletter-services",
+  "destination": "/news",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/latest-event/guires-set-to-expand-in-uk-to-help-businesses-with-digital-transformations",
+  "destination": "/news/corporate/going-international-united-kingdom",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/latest-event/statswork-data-science-and-analytics-division-of-guires",
+  "destination": "/news/corporate",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/corporate-activity/need-for-availability-access-to-clinical-evidence-for-medical-devices-for-europe",
+  "destination": "/news/thought-leadership/need-for-availability-access-to-clinical-evidence-for-medical-devices-for-europe",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/slide-anything-popup-preview",
+  "destination": "/news",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/latest-event/christmas-extravaganza",
+  "destination": "/news/life-at-guires/christmas-2022-new-beginnings-magical-endings",
+  "permanent": true
+ },
+ {
+  "source": "/services/author-publisher-services/:path*",
+  "destination": "/publications",
+  "permanent": true
+ },
+ {
+  "source": "/services/scientific-and-medical-communication/:path*",
+  "destination": "/publications",
+  "permanent": true
+ },
+ {
+  "source": "/services/:path*",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/industries/:path*",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/therapeutic-areas/:path*",
+  "destination": "/#businesses",
+  "permanent": true
+ },
+ {
+  "source": "/career/:path*",
+  "destination": "/careers",
+  "permanent": true
+ },
+ {
+  "source": "/white-papers/:path*",
+  "destination": "/insights",
+  "permanent": true
+ },
+ {
+  "source": "/case-study/:path*",
+  "destination": "/insights",
+  "permanent": true
+ },
+ {
+  "source": "/resources/:path*",
+  "destination": "/insights",
+  "permanent": true
+ },
+ {
+  "source": "/about-us/:path*",
+  "destination": "/#about",
+  "permanent": true
+ },
+ {
+  "source": "/newsroom/:path*",
+  "destination": "/news",
+  "permanent": true
+ }
+]
